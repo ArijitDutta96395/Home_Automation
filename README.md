@@ -15,7 +15,7 @@ This project presents a smart home automation system developed for the **Electro
 ---
 
 ![Home Automation System](https://github.com/ArijitDutta96395/Home_Automation/blob/main/home_automation.png)  
-*Home Automation System Architecture*
+*Home Automation Setup*
 
 
 ---
