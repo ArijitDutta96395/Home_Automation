@@ -13,7 +13,11 @@ This project presents a smart home automation system developed for the **Electro
 - 📡 Real-time monitoring and synchronization of switch states
 
 ---
-> ![Home_Automation Device Setup](https://github.com/ArijitDutta96395/Home_Automation/blob/main/home_automation.png)  
+<p align="center">
+   > ![Home_Automation Device Setup](https://github.com/ArijitDutta96395/Home_Automation/blob/main/home_automation.png)
+   Home_Automation Setup
+</p>
+
 
 ---
 ## 🧰 Hardware Components
